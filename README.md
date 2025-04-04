@@ -32,8 +32,8 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/lovnishverma/nielitecommerece.git
-   cd nielitecommerece
+   git clone https://github.com/saket221211/ecommerce.git
+   cd ecommerece
    ```
 2. Create a virtual environment and activate it:
    ```sh
